@@ -39,6 +39,8 @@ class Snap {
                     player2Score++;
                 } else {
                     System.out.println("WRONG! deducting score from Player 2");
+
+
                     player2Score--;
                 }
             }
